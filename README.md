@@ -12,6 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/haitham-abu-lamdi-969a0a1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haitham-abu-lamdi-969a0a1b7" height="30" width="40" /></a>
+<a href="https://instagram.com/haithamabulamdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haithamabulamdi" height="30" width="40" /></a>
+<a href="https://discord.gg/SOMA#0745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SOMA#0745" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
