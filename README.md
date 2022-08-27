@@ -6,8 +6,8 @@
 </div>
 </dl>
 
-## :technologist: About Me :
-<h4 align="">I am a Backend Developer Laravel with some experiance in Frontend <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+## 🧑‍💻 About Me :
+<h4>A Backend Developer Laravel with some experiance in Frontend <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h4>
 
 
 ### Connect with me
@@ -31,23 +31,45 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <div>
 <h4>Front End </h5>
- <img src="https://camo.githubusercontent.com/3c4cb4ee27c62114892e0e288a787405bece8baa2bb62e351eb3838d5e1729d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d776869746526636f6c6f723d6f72616e6765" alt="HTML5"/>
+<img src="https://img.shields.io/badge/HTML5-ff8400?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge"/>
+<img src="https://img.shields.io/badge/CSS3-0088ff?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 Badge"/>
+<img src="https://img.shields.io/badge/JavaScript-a2d104?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript Badge"/>
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap Badge"/>
+<img src="https://img.shields.io/badge/blade-5beb34?style=for-the-badge&logo=blade&logoColor=white" alt="blade Badge"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" alt="vue Badge"/>
 </div>
-
-
-
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<div>
+<h4>Back End </h4>
+<img src="https://img.shields.io/badge/Laravel-bf6402?style=for-the-badge&logo=Laravel&logoColor=white" alt="Laravel Badge"/>
+<img src="https://img.shields.io/badge/Mysql-0975e0?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql Badge"/>
+<img src="https://img.shields.io/badge/mongodb-5beb34?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb Badge"/>
+<div/>
+<div>
+<h4>Hosting</h4>
+ <img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku Badge"/>
+ <img src="https://img.shields.io/badge/Google Cloud Platform-02c5cc?style=for-the-badge&logo=GoogleCloud&logoColor=white" alt="google Badge"/>
+ <img src="https://img.shields.io/badge/Github Pages-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white" alt="Github Badge"/>
+<div/>
+<div>
+<h4>Tools</h4>
+ <img src="https://img.shields.io/badge/VSCODE-0975e0?style=for-the-badge&logo=Visual Studio Code&logoColor=white" alt="Visual Studio Code Badge"/>
+ <img src="https://img.shields.io/badge/PhpStorm-3c0080?style=for-the-badge&logo=PhpStorm&logoColor=white" alt="PHP Storm Badge"/>
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman Badge"/>
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git Badge"/>
+ <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello Badge"/>  
+</div>
 
 ### ✨ Github State
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haitham-akram&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="haitham-akram" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haitham-akram&show_icons=true&theme=tokyonight&locale=en" alt="haitham-akram" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=haitham-akram&show_icons=true&theme=tokyonight&locale=en" alt="haitham-akram" /></p>
 
 
 ## 🚀 Projects
 ### BookShop [Booksto](https://aqueous-garden-09347.herokuapp.com/) 📚 | Laravel
 Booksto is a Bookshop Dashboard System for Admin and site for guests, guest site show all the books and provide a search for books based on name of the book, Category, Author or Publishing place, for Admin show list of Added books with (add, edit and delete) and same for Category, Auther and Publishing place.
+  
+---
 ### Food Ordering and Delivery Dashbord [Atlub Ealaa Rahatik](https://food-ordring-delivery.herokuapp.com/en/login) | Laravel
 Atlub Ealaa Rahatik is a Food Ordring and Delivery Dashboard System, Atlub Ealaa Rahatik provide a lot of things like:  
 - Connect All Restaurants With All Deleviry Offices in Gaza Strip.
@@ -56,7 +78,9 @@ Atlub Ealaa Rahatik is a Food Ordring and Delivery Dashboard System, Atlub Ealaa
 - Show All Customer Orders to Restaurant Manager and let the Manager choose the Delivery Office without Calling the office.
 - Show All Customer Orders that sent from Resturant Manager to Delivery Office Manager and let them deliver the order.
 - Show the status of the Order to Resturant Manager and Delivery Manager.
-- Show the History of orders for Resturant Manager and Delivery Manager.    
+- Show the History of orders for Resturant Manager and Delivery Manager.
+  
+---
 ### [MovieApp](https://github.com/haitham-akram/movieApp) 🍿🎬 | Laravel
 A website to explore and search movies and TV Shows, the things  that offers : 
 - Show All Moives, TV Shows and Actors that API provide.
@@ -67,6 +91,8 @@ A website to explore and search movies and TV Shows, the things  that offers :
 - Show the teaser for movie or TV show.
 - Show poster or images for movie or TV Show.
 - Show Cast for Movie or TV Show.
+  
+---
 ### Food Delivery Landing page [Deliveroo](https://haitham-akram.github.io/food-delivery-landing-page/index.html) | HTML,CSS and JS
 Food delivery landing page created by HTML, CSS and JS 
 
