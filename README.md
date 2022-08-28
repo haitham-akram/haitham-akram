@@ -67,14 +67,14 @@ Passionate developer, I write clean code, I have an excellent ability to analyze
 
 
 ## 🚀 Projects
-### BookShop [Booksto](https://aqueous-garden-09347.herokuapp.com/) 📚 | Laravel
+### BookShop [Booksto](https://aqueous-garden-09347.herokuapp.com/) 📚 | Laravel, HTML, CSS3, Bootstrap and JavaScript 
 Booksto is a Bookshop Dashboard System for Admin and site for guests, guest site show all the books and provide a search for books based on name of the book, Category, Author or Publishing place, for Admin show list of Added books with (add, edit and delete) and same for Category, Auther and Publishing place.
 #### To Login as
 - Admin Email: Admin@mail.com, Password: Admin@123456 
 - Guest: Just go to site [Here](https://aqueous-garden-09347.herokuapp.com/)
 
 ---
-### Food Ordering and Delivery Dashbord [Atlub Ealaa Rahatik](https://food-ordring-delivery.herokuapp.com/en/login) | Laravel
+### Food Ordering and Delivery Dashbord [Atlub Ealaa Rahatik](https://food-ordring-delivery.herokuapp.com/en/login) | Laravel, HTML, CSS3, Bootstrap, Ajax and JavaScript 
 Atlub Ealaa Rahatik is a Food Ordring and Delivery Dashboard System, Atlub Ealaa Rahatik is created for:  
 - Connect All Restaurants With All Deleviry Offices in Gaza Strip and Organizing the communication processes between them.
 - Show All Customer Orders to Restaurant Manager and let the Manager choose the Delivery Office without Calling the office.
@@ -87,7 +87,7 @@ Atlub Ealaa Rahatik is a Food Ordring and Delivery Dashboard System, Atlub Ealaa
 - Delivery Manager : info@ymama.ps , Password : 123456789  
 
 ---
-### [MovieApp](https://github.com/haitham-akram/movieApp) 🍿🎬 | Laravel
+### [MovieApp](https://github.com/haitham-akram/movieApp) 🍿🎬 | Laravel, HTML, CSS3, TailwindCss and JavaScript 
 A website to explore and search movies and TV Shows, Its created for: 
 - Show All Moives, TV Shows and Actors that API provide.
 - Show Popular Movies and Playing Now Moives.
@@ -99,5 +99,5 @@ A website to explore and search movies and TV Shows, Its created for:
 - Show Cast for Movie or TV Show.
   
 ---
-### Food Delivery Landing page [Deliveroo](https://haitham-akram.github.io/food-delivery-landing-page/index.html) | HTML,CSS and JS
+### Food Delivery Landing page [Deliveroo](https://haitham-akram.github.io/food-delivery-landing-page/index.html) | HTML,CSS and JavaScript
 A landing page for Food ordring and Delivery Explain the features of the Food ordring and Delivery project explains the services in order to serve as marketing for that project.
