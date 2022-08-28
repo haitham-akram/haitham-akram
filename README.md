@@ -61,9 +61,9 @@ Passionate developer, I write clean code, I have an excellent ability to analyze
 
 ### ✨ Github State
   <dl>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haitham-akram&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="haitham-akram" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haitham-akram&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&locale=en&layout=compact" alt="haitham-akram" />
   </dl>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=haitham-akram&show_icons=true&theme=tokyonight&locale=en" alt="haitham-akram" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=haitham-akram&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&locale=en" alt="haitham-akram" /></p>
 
 
 ## 🚀 Projects
