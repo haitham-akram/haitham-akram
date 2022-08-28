@@ -7,23 +7,23 @@
 </dl>
 
 ## 🧑‍💻 About Me :
-<h4>A Backend Developer Laravel with some experiance in Frontend <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h4>
+<h4>A Backend Developer Laravel with good experiance in Frontend <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h4>
+Passionate developer, I write clean code, I have an excellent ability to analyze requirements, and develop a complete Web Application using my skills.
 
-
+### Skills 
+- Front End {HTML, CSS, JavaScript, Bootstrap and Vue.js }
+- Back End {PHP/Laravel, MySql and MongoDb}
 ### Connect with me
 <div id= "header">
   <div id="badges" >
+   <a href="mailto:hayhtam14@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/haitham-abu-lamdi-969a0a1b7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/haithamabulamdi">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://discord.gg/SOMA#0745">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
-  </a>
-    <a href="mailto:hayhtam14@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   </div>
 </div>
@@ -68,21 +68,26 @@
 ## 🚀 Projects
 ### BookShop [Booksto](https://aqueous-garden-09347.herokuapp.com/) 📚 | Laravel
 Booksto is a Bookshop Dashboard System for Admin and site for guests, guest site show all the books and provide a search for books based on name of the book, Category, Author or Publishing place, for Admin show list of Added books with (add, edit and delete) and same for Category, Auther and Publishing place.
-  
+#### To Login as
+- Admin Email: Admin@mail.com, Password: Admin@123456 
+- Guest: Just go to site [Here](https://aqueous-garden-09347.herokuapp.com/)
+
 ---
 ### Food Ordering and Delivery Dashbord [Atlub Ealaa Rahatik](https://food-ordring-delivery.herokuapp.com/en/login) | Laravel
-Atlub Ealaa Rahatik is a Food Ordring and Delivery Dashboard System, Atlub Ealaa Rahatik provide a lot of things like:  
-- Connect All Restaurants With All Deleviry Offices in Gaza Strip.
-- Organizing the communication processes between restaurant managers and delivery offices 
-  completely via the website without the need to call by phone except when needed.
+Atlub Ealaa Rahatik is a Food Ordring and Delivery Dashboard System, Atlub Ealaa Rahatik is created for:  
+- Connect All Restaurants With All Deleviry Offices in Gaza Strip and Organizing the communication processes between them.
 - Show All Customer Orders to Restaurant Manager and let the Manager choose the Delivery Office without Calling the office.
 - Show All Customer Orders that sent from Resturant Manager to Delivery Office Manager and let them deliver the order.
 - Show the status of the Order to Resturant Manager and Delivery Manager.
 - Show the History of orders for Resturant Manager and Delivery Manager.
-  
+#### To Login as
+- Admin Email: hayhtam14@gmail.com , Password : 12345678
+- Restuarant Manager: Italiano@hotmail.com , Password : 123456789
+- Delivery Manager : info@ymama.ps , Password : 123456789  
+
 ---
 ### [MovieApp](https://github.com/haitham-akram/movieApp) 🍿🎬 | Laravel
-A website to explore and search movies and TV Shows, the things  that offers : 
+A website to explore and search movies and TV Shows, Its created for: 
 - Show All Moives, TV Shows and Actors that API provide.
 - Show Popular Movies and Playing Now Moives.
 - Show Popular Shows and Top Rated Shows.
@@ -94,5 +99,4 @@ A website to explore and search movies and TV Shows, the things  that offers :
   
 ---
 ### Food Delivery Landing page [Deliveroo](https://haitham-akram.github.io/food-delivery-landing-page/index.html) | HTML,CSS and JS
-Food delivery landing page created by HTML, CSS and JS 
-
+A landing page for Food ordring and Delivery Explain the features of the Food ordring and Delivery project explains the services in order to serve as marketing for that project.
