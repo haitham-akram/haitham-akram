@@ -60,8 +60,9 @@ Passionate developer, I write clean code, I have an excellent ability to analyze
 </div>
 
 ### ✨ Github State
+  <dl>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haitham-akram&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="haitham-akram" /></p>
-
+  </dl>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=haitham-akram&show_icons=true&theme=tokyonight&locale=en" alt="haitham-akram" /></p>
 
 
