@@ -11,7 +11,7 @@
 Passionate developer, I write clean code, I have an excellent ability to analyze requirements, and develop a complete Web Application using my skills.
 
 ### Skills 
-- Front End {HTML, CSS, JavaScript, Bootstrap and Vue.js }
+- Front End {HTML, CSS, JavaScript and Bootstrap}
 - Back End {PHP/Laravel, MySql and MongoDb}
 ### Connect with me
 <div id= "header">
