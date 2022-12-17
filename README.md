@@ -36,7 +36,6 @@ Passionate developer, I write clean code, I have an excellent ability to analyze
 <img src="https://img.shields.io/badge/JavaScript-a2d104?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript Badge"/>
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap Badge"/>
 <img src="https://img.shields.io/badge/blade-5beb34?style=for-the-badge&logo=blade&logoColor=white" alt="blade Badge"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" alt="vue Badge"/>
 </div>
 <div>
 <h4>Back End </h4>
