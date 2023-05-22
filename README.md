@@ -7,12 +7,12 @@
 </dl>
 
 ## 🧑‍💻 About Me :
-<h4>A Backend Developer Laravel with good experiance in Frontend <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h4>
+<h4>A Full stack Developer Node, express and React <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h4>
 Passionate developer, I write clean code, I have an excellent ability to analyze requirements, and develop a complete Web Application using my skills.
 
 ### Skills 
-- Front End {HTML, CSS, JavaScript and Bootstrap}
-- Back End {PHP/Laravel, MySql and MongoDb}
+- Front End {HTML, CSS, JavaScript and React.js}
+- Back End {Node/Express,PHP/Laravel, Postgres and MySql }
 ### Connect with me
 <div id= "header">
   <div id="badges" >
@@ -35,11 +35,19 @@ Passionate developer, I write clean code, I have an excellent ability to analyze
 <img src="https://img.shields.io/badge/CSS3-0088ff?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 Badge"/>
 <img src="https://img.shields.io/badge/JavaScript-a2d104?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript Badge"/>
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap Badge"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="bootstrap Badge"/>
+  
+  
 </div>
 <div>
 <h4>Back End </h4>
 <img src="https://img.shields.io/badge/Laravel-bf6402?style=for-the-badge&logo=Laravel&logoColor=white" alt="Laravel Badge"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node Badge"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express.js&logoColor=white" alt="express Badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres Badge"/>
+  
 <img src="https://img.shields.io/badge/Mysql-0975e0?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql Badge"/>
+  
 <div/>
 <div>
 <h4>Hosting</h4>
